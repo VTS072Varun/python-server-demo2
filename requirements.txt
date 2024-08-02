@@ -1,0 +1,8 @@
+Flask
+openai==0.28
+python-docx
+PyMuPDF
+mammoth
+langchain
+python-dotenv
+gunicorn
